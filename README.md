@@ -1,29 +1,37 @@
 # TalentSoft 👔✨
 
-**TalentSoft** es un sistema modular diseñado para automatizar y optimizar los procesos de administración de talento humano en la microempresa **Dimon's Style**.
+**TalentSoft** es un sistema de información web creado para organizar, automatizar y hacer más eficiente la gestión del talento humano en la microempresa **Dimon's Style**.
 
 ---
 
-## 👥 Integrantes del Proyecto
-* **Brayan Dario Sierra Ramirez** - *Aprendiz*
-* **Yesly Neired Diaz Montilla** - *Aprendiz*
-* **David Steven Castro Garavito** - *Aprendiz*
+## 👥 Equipo de Desarrollo
+* **Brayan Dario Sierra Ramirez** - 
+* **David Steven Castro Garavito** - 
+* **Danier Felipe Herrera** - 
+* **Santiago Peña Bermúdez**
 
 ---
 
-## 📑 Estructura de la Documentación
-En este repositorio se encuentra organizada toda la evidencia técnica de la fase de análisis y diseño del sistema:
+## 📑 Organización de la Documentación
 
-* **📁 01-Análisis y Requisitos:** Contiene la entrevista técnica, el análisis de procesos, el marco normativo y la especificación de requisitos de software bajo el estándar **IEEE 830**.
-* **📁 02-Diseño y Diagramas:** Incluye los diagramas de Casos de Uso Extendidos, el Flujo Navegable y el Diagrama de Flujo de Usuario.
-* **📁 03-Producto y Fichas:** Contiene la propuesta de la Ficha Técnica inicial de la aplicación.
+Toda la documentación técnica del proyecto se encuentra estructurada en las siguientes fases:
+
+* **📁 Fase 1: Análisis y Requisitos**
+  Documentos sobre el estudio inicial de la empresa, necesidades identificadas, entrevistas de levantamiento de información y la lista detallada de requerimientos que debe cumplir el sistema.
+
+* **📁 Fase 2: Diseño y Especificación**
+  Diseños de navegación del sistema, diagramas de procesos, mapa de interacción del usuario y la maqueta visual de las pantallas de la aplicación.
+
+* **📁 Fase 3: Base de Datos y Modelado**
+  Modelado conceptual y lógico de la información, arquitectura de tablas, relaciones y scripts SQL estructurados para el almacenamiento de datos.
+
+* **📁 Fase 4: Despliegue**
+  Guías de instalación, configuración del servidor local y manuales de usuario/técnicos para la puesta en marcha del sistema.
 
 ---
 
-## 🚀 Demostración del Prototipo
-El prototipo actual permite visualizar de manera interactiva el flujo de navegación entre los módulos principales de TalentSoft.
+## 🚀 Prototipo Interactivo
 
-* 🔗 [Haz clic aquí para interactuar con el Prototipo en Canva/Figma](https://www.figma.com/proto/n8Fs07CzkZTAufmNAaEs6s/Prototipo-TS?node-id=7-5&starting-point-node-id=7%3A2&t=kJhOD40Mypyr9pVO-1)
+Puedes navegar y probar la propuesta visual del sistema directamente desde el siguiente enlace:
 
----
-*Proyecto formativo desarrollado para el Servicio Nacional de Aprendizaje (SENA).*
+* 🔗 **[Ver Prototipo Visual de TalentSoft](https://bdsrstudy2026-cyber.github.io/Code_Talentsoft/login/login.html)**
